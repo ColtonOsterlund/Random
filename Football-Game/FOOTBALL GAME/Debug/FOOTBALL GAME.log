@@ -1,0 +1,47 @@
+﻿  main.cpp
+d:\coding projects\c++ projects\football game\football game\main.cpp(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(100): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(107): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(111): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(159): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(160): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(161): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(167): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(168): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(169): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(298): warning C4553: '==': operator has no effect; did you intend '='?
+d:\coding projects\c++ projects\football game\football game\main.cpp(303): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(304): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(312): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(313): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(316): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(317): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(770): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(771): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(772): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(773): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(830): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(831): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(832): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(833): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(894): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(895): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(896): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(897): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(902): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(903): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(904): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(905): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(910): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(911): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(912): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(913): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\c++ projects\football game\football game\main.cpp(1037): warning C4551: function call missing argument list
+     Creating library D:\Coding Projects\C++ Projects\FOOTBALL GAME\Debug\FOOTBALL GAME.lib and object D:\Coding Projects\C++ Projects\FOOTBALL GAME\Debug\FOOTBALL GAME.exp
+  FOOTBALL GAME.vcxproj -> D:\Coding Projects\C++ Projects\FOOTBALL GAME\Debug\FOOTBALL GAME.exe

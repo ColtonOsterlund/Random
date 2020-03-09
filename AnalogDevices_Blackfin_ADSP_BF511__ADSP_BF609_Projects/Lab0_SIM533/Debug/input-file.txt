@@ -1,0 +1,8 @@
+"src/Lab0_Main.doj"
+"src/Lab0_SIM533.doj"
+"src/ReadProcessorCyclesASM.doj"
+"system/adi_initialize.doj"
+"system/startup_ldf/app_cplbtab.doj"
+"system/startup_ldf/app_handler_table.doj"
+"system/startup_ldf/app_heaptab.doj"
+"system/startup_ldf/app_startup.doj"

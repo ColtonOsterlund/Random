@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\coding projects\c++ projects\horse game recent\horse game recent\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'h' hides previous declaration at line '7' of 'd:\coding projects\c++ projects\horse game recent\horse game recent\main.cpp'.</DESCRIPTION>
+    <FUNCTION>Sprite::{ctor}</FUNCTION>
+    <DECORATED>??0Sprite@@QAE@INNHH@Z</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\coding projects\c++ projects\horse game recent\horse game recent\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(10): warning C4018: '<': signed/unsigned mismatch
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(184): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(196): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(247): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(256): warning C4553: '==': operator has no effect; did you intend '='?
+d:\coding projects\visual c++ projects\horse game recent\horse game recent\main.cpp(257): warning C4553: '==': operator has no effect; did you intend '='?
+     Creating library D:\Coding Projects\Visual C++ Projects\HORSE GAME RECENT\Debug\HORSE GAME RECENT.lib and object D:\Coding Projects\Visual C++ Projects\HORSE GAME RECENT\Debug\HORSE GAME RECENT.exp
+  HORSE GAME RECENT.vcxproj -> D:\Coding Projects\Visual C++ Projects\HORSE GAME RECENT\Debug\HORSE GAME RECENT.exe
